@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticalTest02Var05</string>
+    <string name="server">Server</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">Client</string>
+    <string name="put_text">Cheie,Valoare</string>
+    <string name="put">Put</string>
+    <string name="get_text">Cheie</string>
+    <string name="get">Get</string>
+</resources>
